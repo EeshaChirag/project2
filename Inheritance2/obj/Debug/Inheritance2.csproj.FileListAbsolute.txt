@@ -1,0 +1,7 @@
+E:\Example\C#\7Oct\Day5\Inheritance2\obj\Debug\Inheritance2.csprojAssemblyReference.cache
+E:\Example\C#\7Oct\Day5\Inheritance2\obj\Debug\Inheritance2.csproj.CoreCompileInputs.cache
+E:\Example\C#\7Oct\Day5\Inheritance2\bin\Debug\Inheritance2.exe.config
+E:\Example\C#\7Oct\Day5\Inheritance2\bin\Debug\Inheritance2.exe
+E:\Example\C#\7Oct\Day5\Inheritance2\bin\Debug\Inheritance2.pdb
+E:\Example\C#\7Oct\Day5\Inheritance2\obj\Debug\Inheritance2.exe
+E:\Example\C#\7Oct\Day5\Inheritance2\obj\Debug\Inheritance2.pdb

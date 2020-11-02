@@ -1,0 +1,7 @@
+E:\Example\C#\7Oct\Day5\Generic Concepts\bin\Debug\Generic Concepts.exe.config
+E:\Example\C#\7Oct\Day5\Generic Concepts\bin\Debug\Generic Concepts.exe
+E:\Example\C#\7Oct\Day5\Generic Concepts\bin\Debug\Generic Concepts.pdb
+E:\Example\C#\7Oct\Day5\Generic Concepts\obj\Debug\Generic Concepts.csprojAssemblyReference.cache
+E:\Example\C#\7Oct\Day5\Generic Concepts\obj\Debug\Generic Concepts.csproj.CoreCompileInputs.cache
+E:\Example\C#\7Oct\Day5\Generic Concepts\obj\Debug\Generic Concepts.exe
+E:\Example\C#\7Oct\Day5\Generic Concepts\obj\Debug\Generic Concepts.pdb

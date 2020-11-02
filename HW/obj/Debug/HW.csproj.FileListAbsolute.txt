@@ -1,0 +1,7 @@
+E:\Example\C#\7Oct\Day5\HW\bin\Debug\HW.exe.config
+E:\Example\C#\7Oct\Day5\HW\bin\Debug\HW.exe
+E:\Example\C#\7Oct\Day5\HW\bin\Debug\HW.pdb
+E:\Example\C#\7Oct\Day5\HW\obj\Debug\HW.csprojAssemblyReference.cache
+E:\Example\C#\7Oct\Day5\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+E:\Example\C#\7Oct\Day5\HW\obj\Debug\HW.exe
+E:\Example\C#\7Oct\Day5\HW\obj\Debug\HW.pdb

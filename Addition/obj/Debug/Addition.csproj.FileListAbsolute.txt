@@ -1,0 +1,7 @@
+E:\Example\C#\7Oct\Day5\Addition\bin\Debug\Addition.exe.config
+E:\Example\C#\7Oct\Day5\Addition\bin\Debug\Addition.exe
+E:\Example\C#\7Oct\Day5\Addition\bin\Debug\Addition.pdb
+E:\Example\C#\7Oct\Day5\Addition\obj\Debug\Addition.csprojAssemblyReference.cache
+E:\Example\C#\7Oct\Day5\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+E:\Example\C#\7Oct\Day5\Addition\obj\Debug\Addition.exe
+E:\Example\C#\7Oct\Day5\Addition\obj\Debug\Addition.pdb

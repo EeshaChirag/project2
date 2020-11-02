@@ -1,0 +1,7 @@
+E:\Example\C#\7Oct\Day5\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+E:\Example\C#\7Oct\Day5\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+E:\Example\C#\7Oct\Day5\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+E:\Example\C#\7Oct\Day5\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+E:\Example\C#\7Oct\Day5\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+E:\Example\C#\7Oct\Day5\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+E:\Example\C#\7Oct\Day5\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
